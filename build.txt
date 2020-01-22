@@ -1,0 +1,5 @@
+displayName = iFrame Counter - Rework Update
+author = GoodPro712
+version = 2.0
+homepage = https://forums.terraria.org/index.php?threads/iframe-counter.85563/
+side = client
